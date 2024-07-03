@@ -11,8 +11,9 @@ def join_world(list_world):
 
 class Game():
     def __init__(self): 
-        
-        data = np.load('C:\\Users\\jygar\\Dropbox\\Maestria\\Programacion\\data.npz')
+        # path = 'C:\\Users\\jygar\\Dropbox\\Maestria\\Programacion\\data.npz'
+        path = 'data.npz' # Relative path
+        data = np.load(path)
         self.data = data['datos']
         self.players = {}
         self.n_jugadores = 0
