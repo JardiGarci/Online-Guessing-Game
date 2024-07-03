@@ -46,11 +46,4 @@ El código completo del proyecto puede ser revisado en el siguiente enlace de Gi
 
 #### Referencias
 
-- Comer, D. E. (2000). *Internetworking with TCP/IP Volume One* (4th ed.). Prentice Hall.
-- Stevens, W. R., Fenner, B., & Rudoff, A. M. (2004). *UNIX Network Programming Volume 1: The Sockets Networking API* (3rd ed.). Addison-Wesley.
-
-Estos textos proporcionan una comprensión profunda de la programación de redes y la API de sockets en el contexto de UNIX, que es aplicable a la programación de sockets en Python.
-
----
-
-¿Necesitas ayuda adicional con la elaboración del reporte o algún otro aspecto del proyecto?
+- 
