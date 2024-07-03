@@ -32,10 +32,27 @@ El código del cliente se encarga de:
 #### Ejecución y Evidencia
 
 ##### Ejecución del Servidor
+
+A continuación se muestra una imagen con la ejecución del servidor, en ella se puede observar la notificación cuando se conecta un jugador, posteriormente muestra el intento del jugador y la palabra que se le ha asignado además al ganar un jugador muestra los puntos de todos los jugadores conectados.
+
 ![Servidor en Ejecución](Servidor1.png)
 
-##### Ejecución del Cliente
 
+##### Ejecución del Cliente
+###### Jugador 1:
+Se muestra la interfaz inicial como cliente, y el caso en el que se equivoca en su primer intento y en el segundo acierta.
+
+![Servidor en Ejecución](Jugador1.png)
+
+###### Jugador 2:
+Se muestra la interfaz inicial como cliente, y el caso en el que se equivoca tres veces por lo que recibe una pista.
+
+![Servidor en Ejecución](Jugador2.png)
+
+
+###### Jugador 3:
+Se muestra la interfaz inicial como cliente, y el caso ha ganado y decide continuar por lo que se le brinda una nueva palabra para adiviniar.
+![Servidor en Ejecución](Jugador3png)
 
 #### Conclusiones
 
