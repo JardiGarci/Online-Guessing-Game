@@ -47,12 +47,12 @@ Se muestra la interfaz inicial como cliente, y el caso en el que se equivoca en 
 ###### Jugador 2:
 Se muestra la interfaz inicial como cliente, y el caso en el que se equivoca tres veces por lo que recibe una pista.
 
-![Servidor en Ejecución](Jugador2.png)
+![Servidor en Ejecución](Jugador 2.png)
 
 
 ###### Jugador 3:
 Se muestra la interfaz inicial como cliente, y el caso ha ganado y decide continuar por lo que se le brinda una nueva palabra para adiviniar.
-![Servidor en Ejecución](Jugador3png)
+![Servidor en Ejecución](Jugador 3png)
 
 #### Conclusiones
 
