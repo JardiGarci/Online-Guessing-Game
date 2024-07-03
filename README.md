@@ -32,10 +32,9 @@ El código del cliente se encarga de:
 #### Ejecución y Evidencia
 
 ##### Ejecución del Servidor
-![Servidor en Ejecución](path/to/server_screenshot.png)
 
 ##### Ejecución del Cliente
-![Cliente en Ejecución](path/to/client_screenshot.png)
+
 
 #### Conclusiones
 
