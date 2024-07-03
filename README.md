@@ -32,6 +32,7 @@ El código del cliente se encarga de:
 #### Ejecución y Evidencia
 
 ##### Ejecución del Servidor
+![Servidor en Ejecución](path/to/Servidor1.png)
 
 ##### Ejecución del Cliente
 
