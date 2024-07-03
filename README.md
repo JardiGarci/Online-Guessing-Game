@@ -46,4 +46,4 @@ El código completo del proyecto puede ser revisado en el siguiente enlace de Gi
 
 #### Referencias
 
-- 
+-	J. Hunt, Advanced Guide to Python 3 Programming, Switzerland: Springer Cham, 2023. 
